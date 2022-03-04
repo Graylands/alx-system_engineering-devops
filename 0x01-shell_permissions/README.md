@@ -1,1 +1,1 @@
-“Type anything here”
+Type anything here
